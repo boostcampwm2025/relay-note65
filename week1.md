@@ -1,5 +1,6 @@
 ## 첫 만남
 ![둘리](https://hackmd.io/_uploads/rJccpPPLeg.jpg)
+
 서로 처음 만나서 자유롭게 대화하던 도중 대화가 산으로 가는 것 같아서 일단 브레인 스토밍을 해보기로 했습니다.
 
 ## 브레인 스토밍
@@ -45,7 +46,7 @@ AI를 활용하여 이 소재를 간단한 네컷 만화로 만들어서 슬랙 
 대사는 없고 그냥 개발자가 하루종일 디버깅으로 고생하다가 마지막 컷에 머리가 터지는 그런 내용이야.
 ```
 
-<img src="https://i.ibb.co/99NZvBNK/image.png" alt="image" border="0"></a><br />
+<img src="https://i.ibb.co/99NZvBNK/image.png" alt="image" border="0" height=500></a><br />
 
 ### 2. 칭찬합니다에 글이 생각보다 너무 적습니다 ㅠㅠ 여러분들 칭찬이 어려우셨다면 칭찬 MAKER를 사용해서 칭찬을 해볼까요?
 madeby : J273_최준환
