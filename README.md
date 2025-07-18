@@ -8,3 +8,12 @@
 
 <img src="https://i.ibb.co/G4TSXqXd/image.png" alt="image" border="0">
 
+챌린지 1주차가 지난 지금, 부스트캠프에서 지향하는 **동료학습**을 어떻게 하면 더 잘 할 수 있을까요??  
+날카로운 기술 질문 전 우선 친밀감을 쌓는 것은 어떨까요?  
+
+<a href="https://ibb.co/jP4W7Z50"><img src="https://i.ibb.co/9kYVR3vK/image.png" alt="image" border="0"></a>
+
+
+너무 **E**스럽다고요?<br>
+그렇다면 **I** 스러운 위한 너를 위해!<br> 
+혼자 할 수 있는 미션도 하나 준비했답니다^^<br>
