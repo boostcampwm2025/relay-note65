@@ -16,7 +16,7 @@
 ✅ 통과
 
 ### **2. 칭찬합니다에 글이 생각보다 너무 적습니다 ㅠㅠ 여러분들 칭찬이 어려우셨다면 칭찬 MAKER를 사용해서 칭찬을 해볼까요?**
-![ddd](./Image20250725152741.png)
+
 문제:
 
 - AI 말투 거부감
@@ -66,11 +66,11 @@
 [내용]
 오늘 해야할 일이 산더미처럼 있는데 병원 갔다 오는데 2시간 넘게 걸려서 할일을 다 마치치 못하는 하루. 대사 없이
 
-<img src="https://github.com/boostcampwm2025/relay-note65/blob/main/image.png" width="200" height="300"/>
+<img src="https://github.com/boostcampwm2025/relay-note65/blob/main/image.png" width="300" height="400"/>
 
 ### 2. 상장 수여
 
-<img src="https://github.com/boostcampwm2025/relay-note65/blob/main/1831D316-277C-451F-9703-1DB69848498D.png" width="200" height="300"/>
+<img src="https://github.com/boostcampwm2025/relay-note65/blob/main/1831D316-277C-451F-9703-1DB69848498D.png" width="300" height="400"/>
 
 ### 3. 아이스브레이킹
 
