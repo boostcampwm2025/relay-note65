@@ -66,11 +66,11 @@
 [내용]
 오늘 해야할 일이 산더미처럼 있는데 병원 갔다 오는데 2시간 넘게 걸려서 할일을 다 마치치 못하는 하루. 대사 없이
 
-![image.png]()
+<img src="https://github.com/boostcampwm2025/relay-note65/blob/main/image.png" width="200" height="300"/>
 
 ### 2. 상장 수여
 
-<img src="https://github.com/boostcampwm2025/relay-note65/blob/main/image.png" width="50" height="50"/>
+<img src="https://github.com/boostcampwm2025/relay-note65/blob/main/1831D316-277C-451F-9703-1DB69848498D.png" width="200" height="300"/>
 
 ### 3. 아이스브레이킹
 
