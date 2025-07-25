@@ -70,7 +70,7 @@
 
 ### 2. 상장 수여
 
-![image.png](./image.png)
+<img src="https://github.com/boostcampwm2025/relay-note65/blob/main/image.png" width="50" height="50"/>
 
 ### 3. 아이스브레이킹
 
