@@ -203,10 +203,12 @@ AI를 활용하여 이 소재를 간단한 네컷 만화로 만들어서 슬랙 
 --- 
 ## 네컷만화 - 강범창님 , 권대호님
 ## 아이스브레이킹 - 민인애님,이선호님
-#### 이선호
-##### AI가 찾은 주제
+### 이선호
+#### AI가 찾은 주제
 <img width="658" height="804" alt="스크린샷 2025-07-28 오전 9 47 10" src="https://github.com/user-attachments/assets/6fdf94c7-6960-4875-9bf6-aaaf07efebbc" />
-##### 실제 답 
+
+#### 실제 답 
+
 <img width="1508" height="794" alt="스크린샷 2025-07-28 오전 10 06 43" src="https://github.com/user-attachments/assets/9d9c7c1b-a448-43bb-8288-46bada7e36e4" />
 
 
