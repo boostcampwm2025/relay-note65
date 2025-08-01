@@ -215,7 +215,7 @@ TS 흥보 겸..
 
 ### 권대호
 
-<img width="1024" height="1536" alt="0f274a30-9a15-49fa-91a8-f0bcb8f8ea58" src="https://github.com/user-attachments/assets/a3d9ffbf-ff13-4746-946b-1c2974a211f8" />
+<img width="300" height="1536" alt="0f274a30-9a15-49fa-91a8-f0bcb8f8ea58" src="https://github.com/user-attachments/assets/a3d9ffbf-ff13-4746-946b-1c2974a211f8" />
 
 - 과제 도중 운영하는 마인크래프트 서버에 이슈가 생겨 이슈 대응에 3시간을 썼더니
 - 시계가 12시를 가리키고 있었습니다.
